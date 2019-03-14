@@ -1,3 +1,12 @@
+You Only Look Once:
+Unified, Real-Time Object Detection
+
+* https://arxiv.org/pdf/1506.02640.pdf
+
+YOLOv3: An Incremental Improvement
+
+* https://arxiv.org/pdf/1804.02767.pdf
+
 Deep Learning Technical Intro 
 
 * https://arxiv.org/pdf/1709.01412.pdf
