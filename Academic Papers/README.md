@@ -37,4 +37,4 @@ Discovering physical concepts with neural networks
 
 Faster Support Vector Machines
 
-* https://arxiv.org/abs/1808.06394
+* https://arxiv.org/pdf/1808.06394.pdf
