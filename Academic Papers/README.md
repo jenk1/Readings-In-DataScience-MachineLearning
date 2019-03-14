@@ -33,5 +33,4 @@ A Practical Approach to Sizing Neural Networks
 
 Discovering physical concepts with neural networks
 
-* Discovering physical concepts
-with neural networks
+* https://arxiv.org/pdf/1807.10300.pdf
