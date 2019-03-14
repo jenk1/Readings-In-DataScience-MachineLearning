@@ -34,3 +34,10 @@
 
 * https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0
 
+* https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/
+
+* https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47
+
+* http://www.jessicayung.com/lstms-for-time-series-in-pytorch/
+
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
