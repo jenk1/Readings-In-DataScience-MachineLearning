@@ -34,3 +34,7 @@ A Practical Approach to Sizing Neural Networks
 Discovering physical concepts with neural networks
 
 * https://arxiv.org/pdf/1807.10300.pdf
+
+Faster Support Vector Machines
+
+* https://arxiv.org/abs/1808.06394
