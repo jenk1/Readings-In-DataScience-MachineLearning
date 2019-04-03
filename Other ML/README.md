@@ -39,3 +39,5 @@
 * https://medium.com/towards-data-science/about-choosing-your-optimization-algorithm-carefully-d5d3b721071d
 
 * https://medium.com/towards-data-science/introduction-to-q-learning-88d1c4f2b49c
+
+* https://math.temple.edu/~conrad/ODEblue.pdf
