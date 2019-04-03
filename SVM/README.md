@@ -13,3 +13,5 @@
 * https://machinelearningmastery.com/support-vector-machines-for-machine-learning/
 
 * https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
+
+* http://dustwell.com/PastWork/IntroToSVM.pdf
