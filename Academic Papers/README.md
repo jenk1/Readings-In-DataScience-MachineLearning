@@ -7,6 +7,21 @@ YOLOv3: An Incremental Improvement
 
 * https://arxiv.org/pdf/1804.02767.pdf
 
+Exploring galaxy evolution with generative models
+
+* https://arxiv.org/pdf/1812.01114.pdf
+
+QuCumber: wavefunction reconstruction with neural
+networks
+
+* https://arxiv.org/pdf/1812.09329.pdf
+
+Discovering physical concepts
+with neural networks
+
+* Discovering physical concepts with neural networks
+
+
 Deep Learning Technical Intro 
 
 * https://arxiv.org/pdf/1709.01412.pdf
