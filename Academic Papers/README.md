@@ -67,3 +67,7 @@ XGBoost: A Scalable Tree Boosting System
 
 * https://arxiv.org/pdf/1603.02754.pdf
 
+Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+
+* https://arxiv.org/pdf/1905.08233.pdf
+
