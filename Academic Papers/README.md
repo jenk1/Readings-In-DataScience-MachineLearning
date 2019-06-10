@@ -62,3 +62,8 @@ Discovering physical concepts with neural networks
 Faster Support Vector Machines
 
 * https://arxiv.org/pdf/1808.06394.pdf
+
+XGBoost: A Scalable Tree Boosting System
+
+* https://arxiv.org/pdf/1603.02754.pdf
+
