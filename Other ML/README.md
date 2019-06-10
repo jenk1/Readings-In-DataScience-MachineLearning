@@ -1,3 +1,5 @@
+A mix of anything else related to ML/Data Science etc.
+
 * https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
 
 * https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
@@ -41,3 +43,20 @@
 * https://medium.com/towards-data-science/introduction-to-q-learning-88d1c4f2b49c
 
 * https://math.temple.edu/~conrad/ODEblue.pdf
+
+* https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098
+
+* https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+
+* https://towardsdatascience.com/stock-market-analysis-using-arima-8731ded2447a
+
+* https://towardsdatascience.com/how-to-load-matlab-mat-files-in-python-1f200e1287b5
+
+* https://towardsdatascience.com/tutorial-for-using-confidence-intervals-bootstrapping-860ba716aef3
+
+* https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html
+
+* https://stackabuse.com/how-to-format-dates-in-python/
+
+* https://towardsdatascience.com/estimators-loss-functions-optimizers-core-of-ml-algorithms-d603f6b0161a
+
