@@ -41,3 +41,11 @@
 * http://www.jessicayung.com/lstms-for-time-series-in-pytorch/
 
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+* https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/
+
+* https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/
+
+* https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d
+
+* https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
