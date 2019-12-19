@@ -49,3 +49,7 @@
 * https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d
 
 * https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
+
+* https://mlfromscratch.com/activation-functions-explained/#/
+
+* https://mlfromscratch.com/optimizers-explained/#/
