@@ -53,3 +53,8 @@
 * https://mlfromscratch.com/activation-functions-explained/#/
 
 * https://mlfromscratch.com/optimizers-explained/#/
+
+Effectiveness of Self Normalizing Neural
+Networks for Text Classification
+
+* https://arxiv.org/pdf/1905.01338.pdf
