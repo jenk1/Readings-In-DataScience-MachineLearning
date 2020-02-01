@@ -58,3 +58,9 @@ Effectiveness of Self Normalizing Neural
 Networks for Text Classification
 
 * https://arxiv.org/pdf/1905.01338.pdf
+
+* https://machinelearningmastery.com/object-recognition-with-deep-learning/
+
+* https://www.kdnuggets.com/2019/08/2019-guide-object-detection.html
+
+* https://towardsdatascience.com/object-detection-using-deep-learning-approaches-an-end-to-end-theoretical-perspective-4ca27eee8a9a
