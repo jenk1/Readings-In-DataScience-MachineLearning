@@ -71,3 +71,6 @@ Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 
 * https://arxiv.org/pdf/1905.08233.pdf
 
+Object Detection with Deep Learning: A Review
+
+* https://arxiv.org/pdf/1807.05511.pdf
