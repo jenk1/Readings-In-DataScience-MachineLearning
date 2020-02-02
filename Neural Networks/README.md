@@ -64,3 +64,11 @@ Networks for Text Classification
 * https://www.kdnuggets.com/2019/08/2019-guide-object-detection.html
 
 * https://towardsdatascience.com/object-detection-using-deep-learning-approaches-an-end-to-end-theoretical-perspective-4ca27eee8a9a
+
+* https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/
+
+* https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/
+
+* https://heartbeat.fritz.ai/a-beginners-guide-to-convolutional-neural-networks-cnn-cf26c5ee17ed
+
+* https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
