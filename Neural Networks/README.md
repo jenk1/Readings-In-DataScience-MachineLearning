@@ -72,3 +72,5 @@ Networks for Text Classification
 * https://heartbeat.fritz.ai/a-beginners-guide-to-convolutional-neural-networks-cnn-cf26c5ee17ed
 
 * https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
+
+* https://www.dropbox.com/s/qonozmne0x4x2r3/deepsurveyICML18final.pptx?dl=0#
