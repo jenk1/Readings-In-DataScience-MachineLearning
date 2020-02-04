@@ -60,3 +60,4 @@ A mix of anything else related to ML/Data Science etc.
 
 * https://towardsdatascience.com/estimators-loss-functions-optimizers-core-of-ml-algorithms-d603f6b0161a
 
+*  https://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works
